@@ -616,6 +616,7 @@ iframe {
     iframe {
         width: 90%; /* Responsive width */
         max-width: 400px; /* Prevents overflow */
+        height:1200px;
         margin: 0 auto; /* Centers the iframe */
         display: block; /* Ensures centering */
     }
